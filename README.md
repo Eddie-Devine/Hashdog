@@ -6,6 +6,7 @@ Please do not use this program to do anything illigal. I will not be held respon
 
  HOW TO USE: Run the "hashdog.bat" file
  
+ To run you will need to install node: https://nodejs.org/en/
  
  Exaple inputs:
  
