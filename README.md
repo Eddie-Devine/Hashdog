@@ -3,9 +3,12 @@ A straightforward hash cracking tool inspired by Hashcat.
 
 Please do not use this program to do anything illigal. I will not be held responsible. This is purly for educational purposes only.
 
+
  HOW TO USE: Run the "hashdog.bat" file
  
+ 
  Exaple inputs:
+ 
  
  HASH: 909104cdb5b06af2606ed4a197b07d09d5ef9a4aad97780c2fe48053bce2be52 (This is the hash that you want to crack)
  
