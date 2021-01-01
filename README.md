@@ -5,7 +5,7 @@ A straightforward hash cracking tool inspired by Hashcat.
 
  **HOW TO USE:**\
  Run the "hashdog.bat" file\
- To run you will need to install (node)[https://nodejs.org/en/]
+ To run you will need to install [node](https://nodejs.org/en/)
  
  **Exaple inputs:**
  
