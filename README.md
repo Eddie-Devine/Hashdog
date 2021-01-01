@@ -1,7 +1,7 @@
 # Hashdog
 A straightforward hash cracking tool inspired by Hashcat.
 
-**Please do not use this program to do anything illigal. I will not be held responsible. This is purly for educational purposes only.**
+**DO NOT USE THIS PROGRAM TO DO ANYTHING HARMFUL OR ILLEGAL. I WILL NOT BE HELD RESPONSIBLE. THIS IS PURELY FOR EDUCATIONAL PURPOSES ONLY.**
 
  **HOW TO USE:**\
  Run the "hashdog.bat" file\
